@@ -7,12 +7,12 @@
     "community": true,
     "resources": [
         {
-            "type": "workflow",
+            "type": "owl-workflows",
             "numberOfInstances": 2,
             "instances": []
         },
         {
-            "type": "database",
+            "type": "owl-database",
             "numberOfInstances": 1,
             "instances": []
         }

@@ -7,7 +7,7 @@
     "community": true,
     "resources": [
         {
-            "type": "hosting",
+            "type": "owl-hosting",
             "numberOfInstances": 1,
             "instances": []
         }
