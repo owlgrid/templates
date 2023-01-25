@@ -1,0 +1,24 @@
+{
+    "id": "dOSgm7DULX4ksg9czdS86",
+    "displayName": "GDPR cleaner",
+    "description": "Clean GDPR data from your database. Specify the data to delete inside workflow deletePersonalData and the time to wait before deleting it. Can be triggered manually or automatically. Saves execution logs in database (can be disabled).",
+    "createDate": "2022-01-01T09:20:00.000Z",
+    "updateDate": "2023-01-04T09:20:00.000Z",
+    "community": true,
+    "resources": [
+        {
+            "type": "workflow",
+            "numberOfInstances": 2,
+            "instances": []
+        },
+        {
+            "type": "database",
+            "numberOfInstances": 1,
+            "instances": []
+        }
+    ],
+    "author": {
+        "id": "AAbXsZwjSVafKtQueF54B",
+        "displayName": "Grégoire Thibaud"
+    }
+}

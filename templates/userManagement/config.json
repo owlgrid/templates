@@ -1,0 +1,86 @@
+{
+    "id": "dOSgm7DULX4psg9czdS86",
+    "displayName": "User management",
+    "description": "Basic user system for apps, includes user data model, user registration, login, logout, user profile and user deletion (RGPD)",
+    "createDate": "2022-01-01T09:20:00.000Z",
+    "updateDate": "2023-01-19T09:20:00.000Z",
+    "community": true,
+    "resources": [
+        {
+            "type": "workflow",
+            "numberOfInstances": 8,
+            "instances": [
+                {
+                    "id": "dOSPm7DULX4psg9czdS86",
+                    "displayName": "createUser"
+                },
+                {
+                    "id": "dOSgm7DULX4psg9czdS87",
+                    "displayName": "login"
+                },
+                {
+                    "id": "dOSgm7DULX4psg9czdS88",
+                    "displayName": "logout"
+                },
+                {
+                    "id": "dOSgm7DULX4psg9czdS89",
+                    "displayName": "deleteUser"
+                },
+                {
+                    "id": "dOSgm7DULX4psg9czdS90",
+                    "displayName": "deletePersonalData"
+                },
+                {
+                    "id": "dOSgm7DULX4psg9czdS91",
+                    "displayName": "getUserProfile"
+                },
+                {
+                    "id": "dOSgm7DULX4psg9czdS92",
+                    "displayName": "updateUserProfile"
+                },
+                {
+                    "id": "dOSgm7DULX4psg9czdS93",
+                    "displayName": "updateUserPassword"
+                },
+                {
+                    "id": "dOSgm7DULX4psg9czdS95",
+                    "displayName": "resetPassword"
+                },
+                {
+                    "id": "dOSgm7DULX4psg9czdS96",
+                    "displayName": "sendVerificationEmail"
+                },
+                {
+                    "id": "dOSgm7DULX4psg9czdS97",
+                    "displayName": "verifyEmail"
+                },
+                {
+                    "id": "dOSgm7DULX4psg9czdS99",
+                    "displayName": "sendWelcomeEmail"
+                },
+                {
+                    "id": "dOSgm7DULX4psg9czdS100",
+                    "displayName": "sendEmail"
+                }
+            ]
+        },
+        {
+            "type": "database",
+            "numberOfInstances": 2,
+            "instances": [
+                {
+                    "id": "dOSgm7DULX4psg9czdS94",
+                    "displayName": "users"
+                },
+                {
+                    "id": "dOSgm7DULX4psg9czdS98",
+                    "displayName": "archivedUsers"
+                }
+            ]
+        }
+    ],
+    "author": {
+        "id": "AAbXsZnjSVafKtQueF54B",
+        "displayName": "Arthur Lefevre"
+    }
+}

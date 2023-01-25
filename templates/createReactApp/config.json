@@ -1,0 +1,19 @@
+{
+    "id": "dOSgm7DoLX4ksg9czdS86",
+    "displayName": "My first web app",
+    "description": "Simple Create React App.",
+    "createDate": "2022-01-01T09:20:00.000Z",
+    "updateDate": "2022-12-20T09:20:00.000Z",
+    "community": true,
+    "resources": [
+        {
+            "type": "hosting",
+            "numberOfInstances": 1,
+            "instances": []
+        }
+    ],
+    "author": {
+        "id": "AAbXsZnjSVafKtQueF54B",
+        "displayName": "Arthur Lefevre"
+    }
+}

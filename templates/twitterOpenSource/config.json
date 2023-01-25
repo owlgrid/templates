@@ -1,0 +1,29 @@
+{
+    "id": "dOSgm7DULX4ksg9cidS86",
+    "displayName": "Twitter clone",
+    "description": "This templates contains a full Twitter app replica, with user management, tweets, comments, likes, follows, etc. It also includes a full admin panel to manage users, tweets, comments, etc.",
+    "createDate": "2022-01-01T09:20:00.000Z",
+    "updateDate": "2022-12-13T09:20:00.000Z",
+    "community": true,
+    "resources": [
+        {
+            "type": "workflow",
+            "numberOfInstances": 46,
+            "instances": []
+        },
+        {
+            "type": "database",
+            "numberOfInstances": 18,
+            "instances": []
+        },
+        {
+            "type": "hosting",
+            "numberOfInstances": 2,
+            "instances": []
+        }
+    ],
+    "author": {
+        "id": "AAbXsZnjSVafKtQueF54B",
+        "displayName": "Arthur Lefevre"
+    }
+}
