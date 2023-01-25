@@ -1,0 +1,72 @@
+{
+    "objects": [
+        {
+            "id": "user",
+            "name": "User",
+            "properties": [
+                {
+                    "id": "id",
+                    "name": "id",
+                    "type": "string",
+                    "required": true,
+                    "unique": true
+                },
+                {
+                    "id": "lastName",
+                    "name": "lastName",
+                    "type": "string",
+                    "required": false
+                },
+                {
+                    "id": "firstName",
+                    "name": "firstName",
+                    "type": "string",
+                    "required": false
+                },
+                {
+                    "id": "email",
+                    "name": "email",
+                    "type": "string",
+                    "required": true
+                },
+                {
+                    "id": "password",
+                    "name": "password",
+                    "type": "string",
+                    "required": true
+                },
+                {
+                    "id": "role",
+                    "name": "role",
+                    "type": "string",
+                    "required": true
+                },
+                {
+                    "id": "status",
+                    "name": "status",
+                    "type": "string",
+                    "required": true
+                },
+                {
+                    "id": "createdAt",
+                    "name": "createdAt",
+                    "type": "date",
+                    "required": true
+                },
+                {
+                    "id": "updatedAt",
+                    "name": "updatedAt",
+                    "type": "date",
+                    "required": true
+                },
+                {
+                    "id": "deletedAt",
+                    "name": "deletedAt",
+                    "type": "date",
+                    "required": false
+                }
+            ]
+        }
+    ],
+    "relations": []
+}
