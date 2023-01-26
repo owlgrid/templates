@@ -1,6 +1,6 @@
 {
     "id": "dOSgm7DULX4psg9czdS86",
-    "displayName": "User management",
+    "name": "User management",
     "description": "Basic user system for apps, includes user data model, user registration, login, logout, user profile and user deletion (RGPD)",
     "createDate": "2022-01-01T09:20:00.000Z",
     "updateDate": "2023-01-19T09:20:00.000Z",
@@ -12,55 +12,55 @@
             "instances": [
                 {
                     "id": "dOSPm7DULX4psg9czdS86",
-                    "displayName": "createUser"
+                    "name": "createUser"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS87",
-                    "displayName": "login"
+                    "name": "login"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS88",
-                    "displayName": "logout"
+                    "name": "logout"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS89",
-                    "displayName": "deleteUser"
+                    "name": "deleteUser"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS90",
-                    "displayName": "deletePersonalData"
+                    "name": "deletePersonalData"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS91",
-                    "displayName": "getUserProfile"
+                    "name": "getUserProfile"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS92",
-                    "displayName": "updateUserProfile"
+                    "name": "updateUserProfile"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS93",
-                    "displayName": "updateUserPassword"
+                    "name": "updateUserPassword"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS95",
-                    "displayName": "resetPassword"
+                    "name": "resetPassword"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS96",
-                    "displayName": "sendVerificationEmail"
+                    "name": "sendVerificationEmail"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS97",
-                    "displayName": "verifyEmail"
+                    "name": "verifyEmail"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS99",
-                    "displayName": "sendWelcomeEmail"
+                    "name": "sendWelcomeEmail"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS100",
-                    "displayName": "sendEmail"
+                    "name": "sendEmail"
                 }
             ]
         },
@@ -70,17 +70,17 @@
             "instances": [
                 {
                     "id": "dOSgm7DULX4psg9czdS94",
-                    "displayName": "users"
+                    "name": "users"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS98",
-                    "displayName": "archivedUsers"
+                    "name": "archivedUsers"
                 }
             ]
         }
     ],
     "author": {
         "id": "AAbXsZnjSVafKtQueF54B",
-        "displayName": "Arthur Lefevre"
+        "name": "Arthur Lefevre"
     }
 }
