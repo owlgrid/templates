@@ -1,5 +1,5 @@
 {
-    "id": "dOSgm7DULX4psg9czdS86",
+    "id": "userManagement",
     "name": "User management",
     "description": "Basic user system for apps, includes user data model, user registration, login, logout, user profile and user deletion (RGPD)",
     "createDate": "2022-01-01T09:20:00.000Z",
