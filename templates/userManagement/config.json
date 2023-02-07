@@ -4,6 +4,7 @@
     "description": "Basic user system for apps, includes user data model, user registration, login, logout, user profile and user deletion (RGPD)",
     "createDate": "2022-01-01T09:20:00.000Z",
     "updateDate": "2023-01-19T09:20:00.000Z",
+    "githubUrl": "https://api.github.com/repos/owlgrid/owl-templates--userManagement",
     "community": true,
     "resources": [
         {
