@@ -14,55 +14,63 @@
             "instances": [
                 {
                     "id": "dOSPm7DULX4psg9czdS86",
-                    "name": "createUser"
+                    "name": "createUser",
+                    "image_name": "archtenebros/function-owlgrid-createuser:gikshyqzduuibbdoeybpekgbarjutikgrlvrqxdk"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS87",
-                    "name": "login"
+                    "name": "login",
+                    "image_name": "archtenebros/function-owlgrid-login:gikshyqzduuibbdoeybpekgbarjutikgrlvrqxdk"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS88",
-                    "name": "logout"
+                    "name": "logout",
+                    "image_name": "archtenebros/function-owlgrid-logout:gikshyqzduuibbdoeybpekgbarjutikgrlvrqxdk"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS89",
-                    "name": "deleteUser"
+                    "name": "deleteUser",
+                    "image_name": "archtenebros/function-owlgrid-deleteuser:gikshyqzduuibbdoeybpekgbarjutikgrlvrqxdk"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS90",
-                    "name": "deletePersonalData"
+                    "name": "deletePersonalData",
+                    "image_name": "archtenebros/function-owlgrid-deletepersonaldata:gikshyqzduuibbdoeybpekgbarjutikgrlvrqxdk"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS91",
-                    "name": "getUserProfile"
+                    "name": "getUserProfile",
+                    "image_name": "archtenebros/function-owlgrid-getuserprofile:gikshyqzduuibbdoeybpekgbarjutikgrlvrqxdk"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS92",
-                    "name": "updateUserProfile"
+                    "name": "updateUserProfile",
+                    "image_name": "archtenebros/function-owlgrid-updateuserprofile:gikshyqzduuibbdoeybpekgbarjutikgrlvrqxdk"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS93",
-                    "name": "updateUserPassword"
+                    "name": "updateUserPassword",
+                    "image_name": "archtenebros/function-owlgrid-updateuserpassword:gikshyqzduuibbdoeybpekgbarjutikgrlvrqxdk"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS95",
-                    "name": "resetPassword"
+                    "name": "resetPassword",
+                    "image_name": "archtenebros/function-owlgrid-resetpassword:gikshyqzduuibbdoeybpekgbarjutikgrlvrqxdk"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS96",
-                    "name": "sendVerificationEmail"
+                    "name": "sendVerificationEmail",
+                    "image_name": "archtenebros/function-owlgrid-sendverificationemail:gikshyqzduuibbdoeybpekgbarjutikgrlvrqxdk"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS97",
-                    "name": "verifyEmail"
+                    "name": "verifyEmail",
+                    "image_name": "archtenebros/function-owlgrid-verifyemail:gikshyqzduuibbdoeybpekgbarjutikgrlvrqxdk"
                 },
                 {
                     "id": "dOSgm7DULX4psg9czdS99",
-                    "name": "sendWelcomeEmail"
-                },
-                {
-                    "id": "dOSgm7DULX4psg9czdS100",
-                    "name": "sendEmail"
+                    "name": "sendWelcomeEmail",
+                    "image_name": "archtenebros/function-owlgrid-sendwelcomeemail:gikshyqzduuibbdoeybpekgbarjutikgrlvrqxdk"
                 }
             ]
         },
