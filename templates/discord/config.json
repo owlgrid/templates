@@ -1,0 +1,29 @@
+{
+    "id": "dOSgm7DUlX4ksg9cidS86",
+    "name": "Discord clone",
+    "description": "This templates contains a full Discord app replica, with user management, messages, channels, etc. It also includes a full moderation application to ban users.",
+    "createDate": "2023-01-10T09:20:00.000Z",
+    "updateDate": "2023-02-22T09:20:00.000Z",
+    "community": true,
+    "resources": [
+        {
+            "type": "owl-workflows",
+            "numberOfInstances": 187,
+            "instances": []
+        },
+        {
+            "type": "owl-database",
+            "numberOfInstances": 96,
+            "instances": []
+        },
+        {
+            "type": "owl-hosting",
+            "numberOfInstances": 2,
+            "instances": []
+        }
+    ],
+    "author": {
+        "id": "AAbXsZnjSVafKtQueF54B",
+        "name": "Arthur Lefevre"
+    }
+}
