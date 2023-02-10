@@ -1,0 +1,29 @@
+{
+    "id": "dOSgm7DUlX4ksg9cidS86",
+    "name": "Newsletter v1",
+    "description": "Features a newsletter signup form, data model, and a workflow to send the newsletter to subscribers.",
+    "createDate": "2023-01-10T09:20:00.000Z",
+    "updateDate": "2023-01-01T09:20:00.000Z",
+    "community": true,
+    "resources": [
+        {
+            "type": "owl-workflows",
+            "numberOfInstances": 11,
+            "instances": []
+        },
+        {
+            "type": "owl-database",
+            "numberOfInstances": 2,
+            "instances": []
+        },
+        {
+            "type": "owl-hosting",
+            "numberOfInstances": 1,
+            "instances": []
+        }
+    ],
+    "author": {
+        "id": "AAbXsZnjSVafKtQueF54B",
+        "name": "Arthur Lefevre"
+    }
+}

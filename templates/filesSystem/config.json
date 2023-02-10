@@ -1,0 +1,24 @@
+{
+    "id": "dOSgm7DULX4ksg9czdS6",
+    "name": "Files system",
+    "description": "This template contains a files management system that can be deployed on a web app. The templates features a web interface to upload files, a folders tree to organize files, a search engine to find files, and a file previewer",
+    "createDate": "2022-08-30T09:20:00.000Z",
+    "updateDate": "2023-01-04T09:20:00.000Z",
+    "community": true,
+    "resources": [
+        {
+            "type": "owl-workflows",
+            "numberOfInstances": 32,
+            "instances": []
+        },
+        {
+            "type": "owl-database",
+            "numberOfInstances": 8,
+            "instances": []
+        }
+    ],
+    "author": {
+        "id": "AAbXsZwjSVafKtQueF54B",
+        "name": "Grégoire Thibaud"
+    }
+}
